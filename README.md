@@ -14,7 +14,6 @@
 - [Deployment](#deployment)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
 
 ## About the Project
 **Hire Me** is a full-stack job portal where job seekers can search and apply for job openings, upload their resumes, and manage their profiles. Recruiters can post jobs, manage applications, and accept/reject candidates. The platform uses **Clerk** for authentication and **Sentry** for error tracking and performance monitoring.
