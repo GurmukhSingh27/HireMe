@@ -154,11 +154,4 @@ Contributions are welcome! If you'd like to contribute, follow these steps:
 ## License
 - Distributed under the MIT License. See LICENSE for details.
 
-## Contact
-- **Tushar Bhardwaj** - [Portfolio](https://tushar-bhardwaj.vercel.app/)
-- **Connect 1:1** - [Topmate](https://topmate.io/tusharbhardwaj)
-- **GitHub:** [TuShArBhArDwA](https://github.com/TuShArBhArDwA)
-- **LinkedIn:** [Tushar Bhardwaj](https://www.linkedin.com/in/bhardwajtushar2004/)
-- **Email:** [tusharbhardwaj2617@example.com](mailto:tusharbhardwaj2617@example.com)
-
 
